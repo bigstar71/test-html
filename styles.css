@@ -1,0 +1,23 @@
+h1 {
+	height: 100px;
+	width: 300px;
+	background-color: yellow;
+	padding: 50px 30px 20px 50px;
+	border: 10px solid red;
+	margin: 50px 40px 30px 20px;
+	background-color: #a93232;
+	text-align: center;
+}
+
+#second-li {
+	color: red;
+}
+
+.odd-li {
+	color: blue;
+}
+
+.first-two-li {
+	background-color: green;
+}
+
